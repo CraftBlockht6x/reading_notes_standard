@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>语文读书笔记符号标准规范</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .example {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+        .note {
+            color: #555;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+        .copyright {
+            background-color: #f0f0f0;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 0.9em;
+        }
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>语文读书笔记符号标准规范</h1>
+    <p>以下是一份适用于普通中学的语文读书笔记的符号标准规范，旨在帮助学生更清晰地记录和整理阅读内容。</p>
+
+    <div class="section">
+        <h2>一、定位符号</h2>
+        <ul>
+            <li><strong>[段落编号]</strong>：用数字表示文段在文章中的位置，范围为 [1..99]。</li>
+            <li><strong>[页码编号]</strong>：用数字表示文段所在的页码，范围为 [1..999]。</li>
+        </ul>
+        <div class="example">
+            <p><strong>示例：</strong></p>
+            <p><code>12. 王宇辉听了这段话...</code>，表示这段文本位于文章的第12段。</p>
+            <p><code>P23. 在这一段中...</code>，表示这段文本位于书籍的第23页。</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>二、赏析符号</h2>
+        <ul>
+            <li><strong>[△]</strong>：用于对文段的局部内容进行赏析。</li>
+            <li><strong>[▽]</strong>：用于对全文或章节进行整体赏析。</li>
+            <li><strong>[☆]</strong>：用于标注文段中的精彩语句或重要观点。</li>
+            <li><strong>[？]</strong>：用于标注文段中的疑问点或需要进一步思考的地方。</li>
+        </ul>
+        <div class="example">
+            <p><strong>示例：</strong></p>
+            <p><code>△. 通过比喻的修辞手法，生动地表达了……</code></p>
+            <p><code>▽. 全文通过……展现了……</code></p>
+            <p><code>☆. 这句话深刻揭示了……</code></p>
+            <p><code>？. 这里作者为什么这样写？</code></p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>三、主题与情感符号</h2>
+        <ul>
+            <li><strong>[主题]</strong>：用于标注文段或全文的核心主题。</li>
+            <li><strong>[情感]</strong>：用于标注文段或全文所表达的情感倾向。</li>
+        </ul>
+        <div class="example">
+            <p><strong>示例：</strong></p>
+            <p><code>[主题] 本文主要探讨了……</code></p>
+            <p><code>[情感] 作者在这一段中表达了……的情感</code></p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>四、拓展符号</h2>
+        <ul>
+            <li><strong>[拓展]</strong>：用于记录由文段引发的联想、拓展思考或相关知识。</li>
+            <li><strong>[引用]</strong>：用于标注引用的原文内容或他人观点。</li>
+        </ul>
+        <div class="example">
+            <p><strong>示例：</strong></p>
+            <p><code>[拓展] 这让我想起了……</code></p>
+            <p><code>[引用] “……”（作者/出处）</code></p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>示例读书笔记</h2>
+        <div class="example">
+            <p><code>1. 在这篇文章的开头，作者写道：“……”</code></p>
+            <p><code>△. 这句话运用了拟人的修辞手法，赋予了……</code></p>
+            <p><code>☆. 这句话非常生动，让我印象深刻。</code></p>
+            <p><code>[情感] 作者在这里表达了……的情感</code></p>
+            <p><code>5. 文中有一段描写：“……”</code></p>
+            <p><code>△. 通过细腻的描写，展现了……</code></p>
+            <p><code>[？] 这里作者为什么用“……”这个词？</code></p>
+            <p><code>[拓展] 这让我想起了另一篇类似的描写，……。</code></p>
+            <p><code>[主题] 本文主要探讨了……</code></p>
+            <p><code>[情感] 全文充满了……的情感。</code></p>
+            <p><code>▽. 作者通过……的结构，展现了……的主题，给人以深刻的启示。</code></p>
+        </div>
+    </div>
+
+    <div class="note">
+        <p>希望这份符号标准规范能帮助学生更好地完成语文读书笔记，提升阅读理解和写作能力。</p>
+    </div>
+
+    <div class="copyright">
+        <h3>版权信息声明</h3>
+        <p>本《语文读书笔记符号标准规范》由Carbon_dioxide编写并提供。该规范旨在为普通中学语文教学与学习提供一种便捷、高效的读书笔记记录方式，适用于所有学生、教师及相关教育工作者。</p>
+        <h4>使用说明：</h4>
+        <ul>
+            <li>本规范符号系统完全免费，任何个人或机构均可自由使用。</li>
+            <li>本规范为非强制性标准，使用者可根据自身需求选择性采用。</li>
+            <li>若引用或使用本规范符号系统，请在相关文档、教学材料或出版物中注明：本符号标准规范来源于《语文读书笔记符号标准规范》<a href="https://craftblockht6x.github.io/reading_notes_standard/">https://craftblockht6x.github.io/reading_notes_standard/</a></li>
+        </ul>
+        <h4>版权声明：</h4>
+        <ul>
+            <li>本规范符号系统的版权归Carbon_dioxide所有，禁止对本规范进行修改、改编或用于商业用途。</li>
+            <li>本规范允许进行非商业性质的小规模修改或定制，以适应特定需求。</li>
+        </ul>
+        <p>我们欢迎并鼓励广大教育工作者和学生使用本规范，以提升语文学习的效率和质量。感谢您使用《语文读书笔记符号标准规范》。</p>
+        <p>Carbon_dioxide</p>
+        <p>2019年1月15日</p>
+    </div>
+
+    <footer>
+        &copy; 2019-<span id="currentYear"></span> | 语文读书笔记符号标准规范 | 版权所有
+    </footer>
+
+    <script>
+        // 动态更新当前年份
+        document.getElementById("currentYear").textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
